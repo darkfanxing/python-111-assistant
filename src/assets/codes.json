@@ -1,0 +1,200 @@
+{
+    "四大指數": [
+        {
+            "name": "道瓊",
+            "code": "^DJI"
+        },
+        {
+            "name": "S&P500",
+            "code": "^GSPC"
+        },
+        {
+            "name": "NSDQ",
+            "code": "^IXIC"
+        },
+        {
+            "name": "費半",
+            "code": "^SOX"
+        }
+    ],
+    "前景股": [
+        {
+            "name": "META",
+            "code": "META"
+        },
+        {
+            "name": "Apple",
+            "code": "AAPL"
+        },
+        {
+            "name": "Amazon",
+            "code": "AMZN"
+        },
+        {
+            "name": "Netfilx",
+            "code": "NFLX"
+        },
+        {
+            "name": "Google",
+            "code": "GOOGL"
+        },
+        {
+            "name": "Microsoft",
+            "code": "MSFT"
+        },
+        {
+            "name": "Tesla",
+            "code": "TSLA"
+        }
+    ],
+    "PC晶片": [
+        {
+            "name": "Intel",
+            "code": "INTC"
+        },
+        {
+            "name": "AMD",
+            "code": "AMD"
+        },
+        {
+            "name": "意法",
+            "code": "STM"
+        },
+        {
+            "name": "Nvidia",
+            "code": "NVDA"
+        }
+    ],
+    "通訊晶片": [
+        {
+            "name": "高通",
+            "code": "QCOM"
+        },
+        {
+            "name": "博通",
+            "code": "AVGO"
+        },
+        {
+            "name": "思佳訊",
+            "code": "SWKS"
+        },
+        {
+            "name": "邁威爾科技",
+            "code": "MRVL"
+        },
+        {
+            "name": "德州儀器",
+            "code": "TXN"
+        }
+    ],
+    "ADR": [
+        {
+            "name": "台積電",
+            "code": "TSM"
+        },
+        {
+            "name": "日月光",
+            "code": "ASM"
+        },
+        {
+            "name": "聯電",
+            "code": "UMC"
+        }
+    ],
+    "設備廠": [
+        {
+            "name": "應材",
+            "code": "AMAT"
+        },
+        {
+            "name": "ASML",
+            "code": "ASML"
+        }
+    ],
+    "LED": [
+        {
+            "name": "科銳",
+            "code": "WOLF"
+        },
+        {
+            "name": "OLED",
+            "code": "OLED"
+        }
+    ],
+    "電腦硬體": [
+        {
+            "name": "IBM",
+            "code": "IBM"
+        },
+        {
+            "name": "HP",
+            "code": "HP"
+        }
+    ],
+    "記憶體": [
+        {
+            "name": "美光",
+            "code": "MU"
+        }
+    ],
+    "金融": [
+        {
+            "name": "摩根士丹利",
+            "code": "MS"
+        },
+        {
+            "name": "摩根大通",
+            "code": "JPM"
+        },
+        {
+            "name": "高盛",
+            "code": "GS"
+        }
+    ],
+    "商品期貨": [
+        {
+            "name": "石油",
+            "code": "00642U.TW"
+        },
+        {
+            "name": "黃金",
+            "code": "00635U.TW"
+        }
+    ],
+    "通路": [
+        {
+            "name": "沃爾瑪",
+            "code": "WMT"
+        },
+        {
+            "name": "好市多",
+            "code": "COST"
+        },
+        {
+            "name": "塔吉塔",
+            "code": "TGT"
+        }
+    ],
+    "成衣球鞋": [
+        {
+            "name": "NIKE",
+            "code": "NKE"
+        },
+        {
+            "name": "ADIDAS",
+            "code": "ADDYY"
+        },
+        {
+            "name": "UA",
+            "code": "UA"
+        },
+        {
+            "name": "LULU",
+            "code": "LULU"
+        },
+        {
+            "name": "GAP",
+            "code": "GPS"
+        }
+    ]
+}
