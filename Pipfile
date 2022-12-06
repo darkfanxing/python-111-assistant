@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
-beautifulsoup4 = "*"
-xlsxwriter = "*"
+requests = "2.28.1"
+beautifulsoup4 = "4.11.1"
+xlsxwriter = "3.0.3"
 
 [dev-packages]
 
