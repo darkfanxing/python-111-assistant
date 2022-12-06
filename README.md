@@ -7,5 +7,5 @@ A sample python spider project.
     ```
     pip install pipenv
     pipenv install
-    src/main.py
+    python src/main.py
     ```
