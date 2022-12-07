@@ -41,9 +41,16 @@ for key in data.keys():
         response = requests.get(f"https://finance.yahoo.com/quote/{info['code']}/history", headers={'USER-AGENT': 'Mozilla/5.0'})
         soup = BeautifulSoup(response.text, "html.parser")
         code_data = soup.select("tr.BdT td")[:-3]
+
         close_data = []
-        for index in range(4, 4+7*61, 7):
-            close_data.append(float(code_data[index].text.replace(",", "")))
+        data_index = 0
+        while len(close_data) <= 61:
+            try:
+                close_data.append(float(code_data[4+7*data_index].text.replace(",", "")))
+            except:
+                print(f"{info['code']} no -- {code_data[7*data_index].text} -- data")
+            
+            data_index += 1
 
         if close_data != []:
             values = [
